@@ -1,0 +1,3 @@
+# Зависимости и сборка Next.js
+node_modules/
+.next/
